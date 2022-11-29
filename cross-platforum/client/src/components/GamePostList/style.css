@@ -1,9 +1,0 @@
-#game-list-display{
-    display: flex;
-    flex-direction: column;
-}
-
-#game-title{
-    font-size: larger;
-    font-weight: 600;
-}
