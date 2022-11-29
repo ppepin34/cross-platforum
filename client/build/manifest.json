@@ -1,0 +1,25 @@
+{
+  "short_name": "Cross Platforum",
+  "name": "GameOn! Cross Platforum",
+  "icons": [
+    {
+      "src": "icons8-game-controller-32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "icons8-game-controller-96",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
