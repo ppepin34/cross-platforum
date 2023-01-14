@@ -24,6 +24,8 @@
     "concurrently": "^7.3.0"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.5.1"
+    "0g": "^0.0.9",
+    "jsonwebtoken": "^8.5.1",
+    "npm": "^9.1.3"
   }
 }
